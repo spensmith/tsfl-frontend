@@ -1,6 +1,5 @@
 import React from 'react';
 import nintendo from './nintendo.png';
-import './App.css';
 import FileSelector from "./FileSelector";
 
 
